@@ -1,0 +1,216 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Library_and_online_book_store.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="css/demo.css">
+    <link rel="stylesheet" href="css/footer-distributed-with-address-and-phones.css">
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+    <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+
+</head>
+<body class="container-fluid bg-secondary">
+
+    <form id="form1" runat="server">
+
+        <div class="container-fluid">
+            <div>
+                <div>
+                    <asp:Image ID="Image1" ImageUrl="Images/Logo.png" runat="server" Height="119px" Width="168px" />
+                </div>
+
+                <div>
+                    <asp:Button ID="btnhome" runat="server" Font-bold="true" CssClass="btn btn-secondary, col-md-2" Text="Home" OnClick="btnhome_Click" />
+
+                    <asp:Button ID="btnnewrelease" runat="server" Font-bold="true" CssClass="btn btn-secondary, col-md-2" Text="New Release" OnClick="btnnewrelease_Click" />
+
+                    <asp:Button ID="btnshowcart" runat="server" Text="Show Cart" Font-bold="true" CssClass="btn btn-secondary, col-md-2" OnClick="btnshowcart_Click" />
+
+                    <asp:Button ID="btndonatebook" runat="server" Text="Donate Book" Font-bold="true" CssClass="btn btn-secondary,col-md-2" OnClick="btndonatebook_Click" Width="223px" />
+
+                    <asp:Button ID="btn_takemembership" runat="server" Text="Take Membership" Font-bold="true" CssClass="btn btn-secondary,col-md-2" OnClick="btn_takemembership_Click" Width="196px" />
+
+                    <asp:Button ID="btnregistration" runat="server" CssClass="btn btn-secondary,col-md-2" Font-bold="true" Text="Registration" OnClick="btnregistration_Click" Width="196px" />
+
+                    <asp:Button ID="btnlibpannel" runat="server" Text="Librarian Pannel" Font-bold="true" CssClass="btn btn-secondary,col-md-2" OnClick="btnlibpannel_Click" Width="195px" />
+
+                    <asp:Button ID="btnlogout" runat="server" Text="Logout" Font-bold="true" OnClick="btnlogout_Click" CssClass="btn btn-secondary,col-md-2" Width="200px" />
+
+                    <asp:Button ID="btnlogin" runat="server" Text="Login" Font-bold="true" OnClick="btnlogin_Click" CssClass="btn btn-secondary,col-md-2" Width="199px" />
+
+                </div>
+
+                <br />
+            </div>
+
+
+            <div class="row">
+
+                <div class="col-md-6 offset-1">
+                    <div class="form-inline my-2 my-lg-0 container">
+                        <asp:TextBox ID="txtsearch" runat="server" class="form-control mr-sm-2" Width="500px"></asp:TextBox><br />
+                        <asp:Button ID="btnsearch" runat="server" Font-bold="true" class="btn btn-outline-success my-2 my-sm-0" Text="Search" OnClick="btnsearch_Click" />
+                    </div>
+                </div>
+
+                <div class="col-md-2">
+                    <asp:Button ID="btnprofile" runat="server" Font-bold="true" Text="Update Profile" CssClass="btn btn-secondary,col-md-12" Width="200px" OnClick="btnprofile_Click" />
+                </div>
+
+            </div>
+
+            <br />
+        </div>
+
+        <div class="container">
+
+            <div class="float-left col-md-2">
+
+                <table>
+                    <tr>
+                        <th>
+                            <asp:Label ID="lblcatagories" runat="server" BorderColor="White" Font-Size="Large" CssClass="btn btn-secondary col-md-12" Text="CATEGORIES"></asp:Label>
+                        </th>
+                    </tr>
+                    <tr>
+
+
+                        <td>
+                            <asp:HyperLink ID="hlnkcatMath" runat="server" BorderColor="White" CssClass="btn btn-secondary col-md-12" NavigateUrl="ShowBook.aspx?category=Mathematics" Text="Mathematics">
+                                    
+                            </asp:HyperLink>
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <asp:HyperLink ID="hlnkcatCS" runat="server" BorderColor="White" CssClass="btn btn-secondary col-md-12" NavigateUrl="ShowBook.aspx?category=Computer Science" Text="Computer Science">
+                                    
+                            </asp:HyperLink>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:HyperLink ID="hlnkcatRes" runat="server" BorderColor="White" CssClass="btn btn-secondary col-md-12" NavigateUrl="ShowBook.aspx?category=Research" Text="Research">
+                                    
+                            </asp:HyperLink>
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:HyperLink ID="hlnkcatHis" runat="server" BorderColor="White" CssClass="btn btn-secondary col-md-12" NavigateUrl="ShowBook.aspx?category=History" Text="History">
+                                    
+                            </asp:HyperLink>
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <asp:HyperLink ID="hlnkcatIsl" BorderColor="White" runat="server" CssClass="btn btn-secondary col-md-12" NavigateUrl="ShowBook.aspx?category=Islamic" Text="Islamic">
+                                    
+                            </asp:HyperLink>
+
+                        </td>
+                    </tr>
+
+
+
+                </table>
+            </div>
+
+            <div class="float-right col-md-10">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+
+
+                    <div>
+                    </div>
+
+
+
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+
+        <!--<div>
+           <footer class="footer-distributed">
+
+			<div class="footer-left">
+
+				<h3><span>Library & Online Book Store</span></h3>
+                
+
+				<p class="footer-links">
+					<a href="#">Home</a>
+					·
+					<a href="#">Blog</a>
+					·
+					<a href="#">Pricing</a>
+					·
+					<a href="#">About</a>
+					·
+					<a href="#">Faq</a>
+					·
+					<a href="#">Contact</a>
+				</p>
+
+				<p class="footer-company-name">Library & Online Book Store &copy; 2018</p>
+			</div>
+
+			<div class="footer-center">
+
+				<div>
+					<i class="fa fa-map-marker"></i>
+					<p><span>21 Revolution Street</span> Paris, France</p>
+				</div>
+
+				<div>
+					<i class="fa fa-phone"></i>
+					<p>+1 555 123456</p>
+				</div>
+
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="mailto:support@company.com">support@company.com</a></p>
+				</div>
+
+			</div>
+
+			<div class="footer-right">
+
+				<p class="footer-company-about">
+					<span>About the company</span>
+					Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+				</p>
+
+				<div class="footer-icons">
+
+					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
+					<a href="#"><i class="fa fa-linkedin"></i></a>
+					<a href="#"><i class="fa fa-github"></i></a>
+
+				</div>
+
+			</div>
+
+		</footer>
+        </div>-->
+    </form>
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

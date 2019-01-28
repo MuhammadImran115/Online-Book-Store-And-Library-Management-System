@@ -1,0 +1,307 @@
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll.config
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.pdb
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe.config
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.rsp
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe.config
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.rsp
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.AppContext.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Collections.Immutable.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Console.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Compression.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Reflection.Metadata.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.AccessControl.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Claims.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.ValueTuple.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe.config
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.rsp
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe.config
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.jQuery.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.Web.Infrastructure.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\WebGrease.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.xml
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.xml
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.pdb
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csprojAssemblyReference.cache
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CoreCompileInputs.cache
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CopyComplete
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.pdb
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\Google.Protobuf.dll
+E:\Net work\Project\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.xml
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll.config
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.pdb
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe.config
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.rsp
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe.config
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.rsp
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.AppContext.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Collections.Immutable.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Console.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Compression.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Reflection.Metadata.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.AccessControl.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Claims.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.ValueTuple.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe.config
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.rsp
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe.config
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.jQuery.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.Web.Infrastructure.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\WebGrease.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Google.Protobuf.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.xml
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.xml
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.xml
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.pdb
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csprojAssemblyReference.cache
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CoreCompileInputs.cache
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CopyComplete
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.dll
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.pdb
+E:\Net work\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\AjaxControlToolkit.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll.config
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.pdb
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe.config
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.rsp
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe.config
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.rsp
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Managed.Core.targets
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.AppContext.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Collections.Immutable.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Console.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Compression.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Reflection.Metadata.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.AccessControl.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Claims.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Principal.Windows.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.ValueTuple.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XmlDocument.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe.config
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.rsp
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe.config
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\AjaxControlToolkit.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.bootstrap.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.jQuery.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.WebForms.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.Web.Infrastructure.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\WebGrease.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Google.Protobuf.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.xml
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.xml
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.xml
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.pdb
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csprojAssemblyReference.cache
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CoreCompileInputs.cache
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CopyComplete
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.dll
+E:\5th Semester\DataBase System\Project - Copy (3)\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.pdb
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll.config
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Library_and_online_book_store.pdb
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.exe.config
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csc.rsp
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.exe.config
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\csi.rsp
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.AppContext.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Collections.Immutable.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Console.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Compression.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.IO.Pipes.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Reflection.Metadata.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.AccessControl.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Claims.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.ValueTuple.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.exe.config
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\vbc.rsp
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\roslyn\VBCSCompiler.exe.config
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\AjaxControlToolkit.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\AspNet.ScriptManager.jQuery.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.Web.Infrastructure.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\WebGrease.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Google.Protobuf.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\MySql.Data.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Optimization.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Newtonsoft.Json.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Antlr3.Runtime.pdb
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csprojAssemblyReference.cache
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CoreCompileInputs.cache
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.csproj.CopyComplete
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\obj\Debug\Library_and_online_book_store.pdb
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\AuthorizeNet.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\AuthorizeNet.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Net.Http.Formatting.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Http.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Http.WebHost.dll
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Net.Http.Formatting.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Http.xml
+E:\Net work\Project_Final\Library_and_online_book_store\Library_and_online_book_store\bin\System.Web.Http.WebHost.xml
